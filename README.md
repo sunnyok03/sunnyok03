@@ -3,5 +3,6 @@ Hey there , I am Sunny Kumar , currently enrolled in **Information Technology fr
 
 ### CONTACT ME
 My Linkedin   https://www.linkedin.com/in/sunny-kumar-929b811b9/ </br>
-My Email ID  lit2020052@iiitl.ac.in   sunnyok03@gmail.com
+My Email ID  lit2020052@iiitl.ac.in  </br>
+Personal Email sunnyok03@gmail.com
 
