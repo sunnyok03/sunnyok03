@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
-<p align="center">I am currently enrolled in <b>Indian Institute of Information Technology, Lucknow</b> in <i>Information Technology</i>.<br> Currently I am learning Data Structure And Algorithms. <br>I am also learning and making projects in FLUTTER.</p>
+<p align="center">I am currently enrolled in <b>Indian Institute of Information Technology, Lucknow</b> in <i>Information Technology</i>.<br> Currently I am learning Data Structure And Algorithms. <br>I am also learning and making projects for MOBILE.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
