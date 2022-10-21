@@ -8,7 +8,7 @@
 <a href="https://fb.com/sunnyok03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sunnyok03" height="30" width="40" /></a>
 <a href="https://instagram.com/s.k_summer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.k_summer" height="30" width="40" /></a>
   <h3 align="left">Coding Profiles:</h3>
-<a href="https://www.codechef.com/users/sunnyok03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunnyok03" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sunny0906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunny0906" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sunnyok03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sunnyok03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sunnyok03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunnyok03" height="30" width="40" /></a>
 </p>
